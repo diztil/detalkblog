@@ -3,8 +3,8 @@ layout: post
 title: 'What is the most Ideal Lifestyle?'
 description: A brief biography of my maternal great grandfather
 tags:
-  - life
   - articles
+  - life
   - essays
 hero: https://miro.medium.com/max/1400/0*JZPNK1A78jBzwzQm
 overlay: orange
