@@ -5,7 +5,7 @@ url                          : "" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : MukTalk
+  title                      : DeTalk
   description                  : >
                                this should contain a proper description
 
@@ -28,7 +28,7 @@ blog:
 author:
   fullname                  : Dewan Mukto
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : dewanmukto@gmail.com # change to your e-mail address
+  mail                      : 
   twitter                   : 
   github                    : 
   youtube                   : 
