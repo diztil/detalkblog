@@ -95,4 +95,4 @@ A quick summary of available features for each pricing plan has been provided be
 ## Try the Free Plan
 You can feel free to give it a try. After all, it costs $0 so why lose an opportunity?
 
-[Get your FREE site](https://free.muxsites.com)
+[Get your FREE site](https://muxworks.gumroad.com/l/free-site)
