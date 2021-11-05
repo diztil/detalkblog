@@ -20,9 +20,9 @@ blog:
   titles_only                : true # show post titles only on main blog page
 
 # Fonts
-  font                       : '"Rubik", -apple-system, "PT+Serif", serif, "Zen+Antique+Soft", serif'
+  font                       : '"Rubik", -apple-system, "PT+Serif", serif, "Zen+Antique+Soft", serif';
   load_google_fonts          : >
-                    'PT+Serif:400,700,400italic,700italic'
+                    'Zen+Antique+Soft:400,700,400italic,700italic'
                     'Rubik:400,400italic,700,700italic'  # ,'Zen Antique Soft:400',400italic,700,700italic'
 
 
