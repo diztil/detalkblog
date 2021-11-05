@@ -4,6 +4,7 @@ title: The Genius behind Alan Walker’s “Faded”
 tags:
   - criticism
   - music
+  - articles
 description: >
   A brief critical review
 hero: https://miro.medium.com/max/1400/1*f6VRV0IZ4XqtGB3nEvXeeA.jpeg
