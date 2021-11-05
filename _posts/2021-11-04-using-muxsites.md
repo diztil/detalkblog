@@ -30,7 +30,9 @@ Yep! Definitely. They provide many more features and freedom of choice on their 
 ![](../images/circlecross.png) Further customization -->
 
 ## Other plans
-> Personal @ $5 per month, Enterprise @ $20 per month, Corporation @ $100 per month
+> * Personal @ $5 per month
+> * Enterprise @ $20 per month
+> * Corporation @ $100 per month
 
 A quick summary of available features for each pricing plan has been provided below
 
