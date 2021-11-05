@@ -1,0 +1,59 @@
+<style>
+/*
+Color-changing/Gaming/RGB Background for websites.
+@author dmimukto 2020
+*/
+
+/*
+By convention, this type of "color-changing" attribute is found in RGB equipment used for gaming. Thus, the object has been named ".gaming".
+*/
+
+.main-bg {
+  background: linear-gradient(225deg, #ffabab, #ffdaab, #ddffab, #abe4ff, #d9abff);
+  background-size: 300% 300%;
+  margin: 0;
+  -webkit-animation: Rainbow 25s ease infinite;
+  -moz-animation: Rainbow 25s ease infinite;
+  animation: Rainbow 25s ease infinite;
+}
+/*
+The "300% 300%" attributes can be manipulated as you wish. Please note that the greater the number is, the slower & smoother the transitions.
+*/
+@-webkit-keyframes Rainbow {
+  0% {
+    background-position: 94% 0%; }
+  50% {
+    background-position: 7% 100%; }
+  100% {
+    background-position: 94% 0%; } }
+.rainbow {
+	animation-name: backgroundColorPalette;
+	animation-duration: 5s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+	animation-timing-function: linear; 
+	/* linear is enabled default, it’s not necessary to add it make it work but it can make your code more expressive */
+}
+@keyframes backgroundColorPalette {
+	0% {
+		background: #ee6055;
+	}
+	25% {
+		background: #60d394;
+	}
+	50% {
+		background: #aaf683;
+	}
+	75% {
+		background: #ffd97d;
+	}
+	100% {
+		background: #ff9b85;
+	}
+}
+
+/*
+You need to insert the button and function in "rgb_activator.html"
+to smoothly activate the dark mode.
+*/
+</style>
