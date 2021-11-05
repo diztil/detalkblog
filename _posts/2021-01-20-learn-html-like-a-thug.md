@@ -34,10 +34,10 @@ To begin with, there is a tag called "html". And you place all tags with their n
 This tag opens and closes a HTML document. Basically it tells the computer that when the `<html>` tag is read, the computer would begin producing the HTML output and when the `</html>` tag is read, the computer would know that it is the end of the document. This MUST exist otherwise the computer is too dumb to figure out what sort of gibberish code you wrote.
 
 Think of this as your first HTML document. As time passes, notice how it progresses :
-~~~html
+```html
 <html>
 </html>
-~~~
+```
 Okay, so till now all you know is that these gangsters are supposed to point out from where your turf begins and till where your local turf ends. Now to get busy.
 
 
@@ -45,12 +45,12 @@ Okay, so till now all you know is that these gangsters are supposed to point out
 ## The body tag
 Yeah, you just wrote 2 lines, nigger. How about two more lines? Add them in.
 
-~~~html
+```html
 <html>
 <body>
 </body>
 </html>
-~~~
+```
 This juicy arrangement is your basic structure for a webpage/HTML document. These are the burger buns at the top and bottom. If you miss these, you don't have a burger anymore. Nothing too complex to understand yet. Keep these facts drilled into your cerebrum, you vodka-seeking bastard!
 
 
@@ -59,18 +59,18 @@ This juicy arrangement is your basic structure for a webpage/HTML document. Thes
 The "paragraph" word is so damn long, that the tag name is shortened to "p" only. Fair enough, you lazy asshole?
 
 Now do the following with your progressive HTML document :
-~~~html
+```html
 <html>
 <body>
 <p>Yo, I love niggas. Let's play cops and robbers.</p> 
 </body>
 </html>
-~~~
+```
 See how that paragraph tag ends with a `</p>` ? You can add more penises like that.
 
 Add two more p-tags till it looks like a dump.
 
-~~~html
+```html
 <html>
 <body>
 <p>Yo, I love niggas. Let's play cops and robbers.</p>
@@ -78,7 +78,7 @@ Add two more p-tags till it looks like a dump.
 <p>Get your brains dozed on this shit, too! https://www.mukto.live/</p>
 </body>
 </html>
-~~~
+```
 
 Damn! You suck at HTML, you rascal! Maybe that bully was right.
 
@@ -90,7 +90,7 @@ Or maybe not, 'cause you've got 3 paragraphs of text displayed on your HTML docu
 You know what's an anchor, hotshot? Huh? An anchor is used to pin down, connect, or link something with another. Just the way a real anchor keeps a ship connected to the sea bed, we use HTML anchor tags to link up stuff, such as a website link.
 
 Remember the code from above? It ain't looking dope yet. Let's place in an anchor tag and make things look groovy.
-~~~html
+```html
 <html>
 <body>
 <p>Yo, I love niggas. Let's play cops and robbers.</p>
@@ -98,7 +98,7 @@ Remember the code from above? It ain't looking dope yet. Let's place in an ancho
 <p>Get your brains dozed on this shit, too! <a href="https://www.mukto.live/">Click here</a></p>
 </body>
 </html>
-~~~
+```
 So now, you see, the anchor tag begins with `<a>`. And to add some customizations to it, we sometimes use extra words and syntaxes within the angular brackets. Here, we left a space after the tag name "a" because otherwise it will change the whole meaning if it was "ahref". The computer will be like "WTF? When did HTML have a tag named 'ahref' ??!"
 
 Remember to close the anchor tag with a good old </> with the tag name coming after the slash.
@@ -112,7 +112,7 @@ The HTML gods shortened the image tag's name to "img". Praise them for saving yo
 
 So I think this is what you did :
 
-~~~html
+```html
 <html>
 <body>
 <p>Yo, I love niggas. Let's play cops and robbers.</p>
@@ -121,11 +121,11 @@ So I think this is what you did :
 <p>Get your brains dozed on this shit, too! <a href="https://www.mukto.live/">Click here</a></p>
 </body>
 </html>
-~~~
+```
 
 And now I'd shake my head and punch your face. You advanced too early. You should know that the image tag needs a source, bitch.
 
-~~~html
+```html
 <html>
 <body>
 <p>Yo, I love niggas. Let's play cops and robbers.</p>
@@ -134,13 +134,13 @@ And now I'd shake my head and punch your face. You advanced too early. You shoul
 <p>Get your brains dozed on this shit, too! <a href="https://www.mukto.live/">Click here</a></p>
 </body>
 </html>
-~~~
+```
 
 Now go and search up your favorite CSGO picture from Google. Right-click and hit COPY IMAGE ADDRESS. Go back to your HTML doc, and insert the link within `src="INSERT SOURCE HERE"` by replacing the INSERT SOURCE HERE placeholder text with your link.
 
 For an example, I have chosen an image and I placed the source link.
 
-~~~html
+```html
 <html>
 <body>
 <p>Yo, I love niggas. Let's play cops and robbers.</p>
@@ -149,7 +149,7 @@ For an example, I have chosen an image and I placed the source link.
 <p>Get your brains dozed on this shit, too! <a href="https://www.mukto.live/">Click here</a></p>
 </body>
 </html>
-~~~
+```
 
 Now you think that you wanna be more creative. So you wanna adjust the image proportions to fit your document more properly, yeah?
 
@@ -157,15 +157,15 @@ So place in more attributes like "width" and "height". Express them as pixels or
 
 Focusing only on the image tag portion of the code above, you can play around with the proportions by placing in these height and width attributes and using numbers to express them in terms of pixels or percentages of the whole page size (of the HTML document).
 
-~~~html
+```html
 <img src="https://www.talkesport.com/wp-content/uploads/csgo-visibility-update-appears-to-reveal-opponents-through-walls-1.jpg" height="640px" width="320px"></img>
-~~~
+```
 
 Or
 
-~~~html
+```html
 <img src="https://www.talkesport.com/wp-content/uploads/csgo-visibility-update-appears-to-reveal-opponents-through-walls-1.jpg" height="80%" width="120%"></img>
-~~~
+```
 
 Now make sure you save your HTML document as a ".html" file. If it is saved as ".txt" by mistake (or any other format), DON'T PANIC! Obviously, you can't call up 911 and ask for technical advice on how to recover a HTML document. Lol. Just take a deep breath and rename the file so that ".html" is sticking out at the end. Examples : "sushibandit.html", "practisedoc.html", "haramjada.html".
 
@@ -180,9 +180,9 @@ To play around with random HTML features and tags, it's best to see them in acti
 
 Here's an example embed code from YouTube, that shows a video wherever you place the embed code.
 
-~~~html
+```html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ncKb0zSKqWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-~~~
+```
 
 That's right! That whole line is a single web element. You can copy-paste it in whichever position (beginning/middle/ending of the webpage) you want to place it.
 
