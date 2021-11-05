@@ -7,7 +7,7 @@ tags:
   - trailer
 hero: https://miro.medium.com/max/1400/0*ZliSUyiiSPEEf5WZ
 overlay:
-published: false
+published: true
 ---
 
 Intro
