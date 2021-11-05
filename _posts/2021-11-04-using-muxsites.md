@@ -30,9 +30,9 @@ Yep! Definitely. They provide many more features and freedom of choice on their 
 ![](../images/circlecross.png) Further customization -->
 
 ## Other plans
-> * Personal @ $5 per month
-> * Enterprise @ $20 per month
-> * Corporation @ $100 per month
+* Personal @ $5 per month
+* Enterprise @ $20 per month
+* Corporation @ $100 per month
 
 A quick summary of available features for each pricing plan has been provided below
 
@@ -98,3 +98,19 @@ A quick summary of available features for each pricing plan has been provided be
 You can feel free to give it a try. After all, it costs $0 so why lose an opportunity?
 
 [Get your FREE site](https://muxworks.gumroad.com/l/free-site)
+
+------
+
+## Consider PAYING a bit MORE
+You can reap some interesting benefits by upgrading/choosing a premium plan for your site. For example, *this* website (detalk.muxsites.com) would qualify for a Personal plan.
+
+Here are some comparisons with other platforms and sites which can be substituted by MuxSites :
+
+You can stay at $0 forever if you only intend to have a single-page landing site for a link-in-bio. E.g. [***Carrd***](https://carrd.co/), [***Solo.to***](https://solo.to/).
+
+If you go for the $5 package, you can have a beautiful blog site of your own rules. E.g. [***Medium***](https://medium.com/), [***Blogger***](https://blogger.com), [***Ghost***](https://ghost.org).
+
+With the $20 plan per month, you have the ability to set up an online store like [***Ecwid***](https://www.ecwid.com/), [***Shopify***](https://www.shopify.ca/).
+
+And finally, if you can spend $100 a month for your website, MuxSites will gladly provide enough facilities and promises to build up any app/site of your choice. Mainly great for building sites like [***Amrella***](https://amrella.muxworks.com), [***Darksalt***](https://darksalt.bubbleapps.io), [***Muxcord***](https://muxcord.apps.muxworks.com), etc.
+
