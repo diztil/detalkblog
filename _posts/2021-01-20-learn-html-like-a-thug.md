@@ -5,6 +5,7 @@ tags:
   - HTML5
   - casual
   - learning
+  - articles
 hero: https://fullsync.co.uk/wp-content/uploads/2020/06/HTML5.png
 overlay: purple
 ---
