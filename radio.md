@@ -4,11 +4,36 @@ title: Radio
 permalink: /radio/
 published: true
 ---
+<style>
+.colorbox{
+  -webkit-box-shadow: 10px 10px 61px 6px rgba(0,0,0,0.75);
+  -moz-box-shadow: 10px 10px 61px 6px rgba(0,0,0,0.75);
+  box-shadow: 10px 10px 61px 6px rgba(0,0,0,0.75);
+}
+
+.colorcontainer:before {
+  content: '';
+  z-index: 2;
+  position: absolute;
+  width: 560px;
+  height: 315px;
+  -webkit-box-shadow: 0 0 0 8px rgba(0,0,0,0.75);
+  -moz-box-shadow: 0 0 0 8px rgba(0,0,0,0.75);
+  box-shadow: 0 0 0 8px rgba(0,0,0,0.75);
+/*   box-shadow: 0px 0px 61px 6px rgba(0,0,0,0.68); */
+  pointer-events: none;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+}
+</style>
 
 <div class="page" markdown="1">
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 
-<iframe src="https://mukto.muxworks.com/colorchanging" width="100%" height="396px"></iframe>
+<div class="colorcontainer">
+  <iframe class="colorbox" width="100%" height="315" src="https://mukto.muxworks.com/colorchanging" frameborder="0" allowfullscreen></iframe>
+</div>
 
 <center>• LIVE Radio Now Playing:
          
