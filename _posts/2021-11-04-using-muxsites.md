@@ -29,15 +29,41 @@ A summary of the Free Plan on MuxSites :
 * [ ] 
 
 ## Other plans
-Personal | Enterprise
------------- | -------------
-* [x] Everything from **Free** | * [x] Everything from **Personal**
-* [x] SEO guarantee | * [x] 
-* [x] Multiple pages |
+Personal
+===============
+$5 per month {: .notice}
+* [x] Everything from **Free**
+* [x] SEO guarantee
+* [x] Multiple pages
 * [x] Blog site
+* [x] Hosting (upto 5 GB)
+* [x] Further customization
 * [ ] Ecommerce site
-* [ ]  | Content from cell 2
-Content in the first column | Content in the second column
+* [ ] Server monitoring
+* [ ] Sitemap and meta info
+
+Enterprise
+===============
+$20 per month {: .notice}
+* [x] Everything from **Personal**
+* [x] Hosting (upto 15 GB)
+* [x] Ecommerce site
+* [x] Full customization
+* [x] Server monitoring
+* [x] Sitemap and meta info
+* [ ] Social platform
+* [ ] App versions
+* [ ] Bespoke admin software/site
+
+Corporation
+===============
+$100 per month {: .notice-alert}
+* [x] Social platform
+* [x] Webapp included
+* [x] Android app version
+* [x] iOS app version
+* [x] Desktop client
+* [x] Bespoke admin software/site
 
 ## Try the Free Plan
 You can feel free to give it a try. After all, it costs $0 so why lose an opportunity?
