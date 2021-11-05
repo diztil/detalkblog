@@ -35,7 +35,7 @@ Yep! Definitely. They provide many more features and freedom of choice on their 
 A quick summary of available features for each pricing plan has been provided below
 
 | | Free | Personal | Enterprise | Corporation |
-|     :---:      |     :---:      |     :---:      |     :---:     |     :---:     |
+|     :---      |     :---:      |     :---:      |     :---:     |     :---:     |
 | No watermark   | ![](../images/circletick.png)     | ![](../images/circletick.png)    | ![](../images/circletick.png) | ![](../images/circletick.png) |
 | Custom CSS     | ![](../images/circletick.png) | ![](../images/circletick.png) | ![](../images/circletick.png) | ![](../images/circletick.png) |
 | Custom embeds     | ![](../images/circletick.png) | ![](../images/circletick.png) | ![](../images/circletick.png) | ![](../images/circletick.png) |
