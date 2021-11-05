@@ -29,7 +29,7 @@ Yep! Definitely. They provide many more features and freedom of choice on their 
 ![](../images/circlecross.png) Further customization -->
 
 ## Other plans
-Personal @ $5 per month, Enterprise @ $20 per month, Corporation @ $100 per month {: .notice}
+> Personal @ $5 per month, Enterprise @ $20 per month, Corporation @ $100 per month
 
 A quick summary of available features for each pricing plan has been provided below
 
@@ -38,7 +38,7 @@ A quick summary of available features for each pricing plan has been provided be
 | No watermark   | ![](../images/circletick.png)     | ![](../images/circletick.png)    | ![](../images/circletick.png) | ![](../images/circletick.png) |
 | Custom CSS     | ![](../images/circletick.png) | ![](../images/circletick.png) | ![](../images/circletick.png) | ![](../images/circletick.png) |
 | Custom embeds     | ![](../images/circletick.png) | ![](../images/circletick.png) | ![](../images/circletick.png) | ![](../images/circletick.png) |
-| Custom layout     | Limited | ![](../images/circletick.png) | ![](../images/circletick.png) | ![](../images/circletick.png) | ![](../images/circletick.png) |
+| Custom layout     | Limited | ![](../images/circletick.png) | ![](../images/circletick.png) | ![](../images/circletick.png) |
 | Free hosting | Upto 1 GB | Upto 5 GB | Upto 15 GB | ![](../images/circlecross.png) |
 | Free SSL certificate | ![](../images/circletick.png) | ![](../images/circlecross.png) | ![](../images/circletick.png) | ![](../images/circletick.png) |
 | SEO guarantee | ![](../images/circlecross.png) | ![](../images/circletick.png) | ![](../images/circletick.png) | ![](../images/circletick.png) |
