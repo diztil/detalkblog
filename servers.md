@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Servers
+title: Redirecting
 permalink: /servers/
 published: true
 ---
