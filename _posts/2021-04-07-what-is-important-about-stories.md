@@ -12,11 +12,9 @@ published: true
 
 ---
 
-![](https://miro.medium.com/max/1400/0*mkWHfVQJ2NFuz-F2)
-
 Photo by [Patrick Tomasso](https://unsplash.com/@impatrickt?utm_source=medium&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=medium&utm_medium=referral)
 
-Why do we intend to tell stories? What is the esoteric reason? Well, stories are a greater image of an abstract concept than a person would generally imagine. Stories are not limited to define the literary handiwork of books or novels or the like. Every verbal action, be it an excuse for being late at work or a published discourse on a very serious subject, is definitely marked by the domain of what a story is. <!--break--> It seems prudent that without stories, our powerful society and culture would be non-existent in the absence of the invention of stories. They are a godsend, indeed. In this essay, further details on this fine motif are asserted herein.
+Why do we intend to tell stories? What is the esoteric reason? Well, stories are a greater image of an abstract concept than a person would generally imagine. Stories are not limited to define the literary handiwork of books or novels or the like. Every verbal action, be it an excuse for being late at work or a published discourse on a very serious subject, is definitely marked by the domain of what a story is. <!–-break-–> It seems prudent that without stories, our powerful society and culture would be non-existent in the absence of the invention of stories. They are a godsend, indeed. In this essay, further details on this fine motif are asserted herein.
 
 Starting off by rummaging through a literal classic, Jhumpa Lahiri's *Interpreter of Maladies*, we would undoubtedly observe how characters weave out emotions, relations and perform certain actions which result in circumstances and situations affecting their lives by massive magnitudes. One of the stories in this book, entitled 'A Temporary Matter', narrates the subtle tale of Shukumar and Shoba. Lahiri exhibits the characters' background histories, their personalities, and the possible future, allowing readers to examine the current situation imposed on the couple. In the end, both characters reveal a shocking fragment of their intentions. This emotive story is an example which demonstrates the feelings of guilt, hope, nostalgia, and betrayal. Thus, stories enable us to taste what the characters feel without having to feel them in reality.
 
