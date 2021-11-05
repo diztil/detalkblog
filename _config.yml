@@ -7,7 +7,7 @@ url                          : "" # the base hostname & protocol for your site
 blog:
   title                      : DeTalk
   description                  : >
-                               a blog on <a href="https://www.muxsites.com" target="_blank">MuxSites</a> by
+                               
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
