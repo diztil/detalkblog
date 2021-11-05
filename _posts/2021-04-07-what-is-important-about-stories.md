@@ -3,6 +3,7 @@ layout: post
 title:  "What is Important about Stories?"
 description: And why do we intend to tell them
 tags:
+  - articles
   - literature
   - research
   - theories
