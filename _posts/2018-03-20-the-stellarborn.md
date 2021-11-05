@@ -13,7 +13,7 @@ published: false
 Intro
 =====
 
-Colors and spectra flashing and splashing everywhere across the heavens --- a battle between nebulae and a miraculous dream. Donned beneath a dawn of justice, packed with an influence that foreshadowed fear in the hearts of evil malice and heralded an eternal aura of prosperity for the worthy. Worlds apast, chasms apart, a shard of brilliant glory landed on Earth. It shone with a streak amidst the heart of cold, timeless, black frozen sky, that stroked through the mist of human supervision. No one saw it coming, no one witnessed its descent; only the surrounding stream of shimmering spirits sensed its presence.
+Colors and spectra flashing and splashing everywhere across the heavens --- a battle between nebulae and a miraculous dream. Donned beneath a dawn of justice, packed with an influence that foreshadowed fear in the hearts of evil malice and heralded an eternal aura of prosperity for the worthy. Worlds apast, chasms apart, a shard of brilliant glory landed on Earth. <!–-break-–> It shone with a streak amidst the heart of cold, timeless, black frozen sky, that stroked through the mist of human supervision. No one saw it coming, no one witnessed its descent; only the surrounding stream of shimmering spirits sensed its presence.
 
 The spirits knew its making. The spirits foretold its entrance. Was it truly lucky for the humans to avert their attention away from this supernatural source? Was it ethical to simply abide their sanity and step forth to corruption, sin, and chaos?
 
