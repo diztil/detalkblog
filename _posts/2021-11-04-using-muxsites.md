@@ -5,7 +5,7 @@ tags:
   - casual
   - promo
   - websites
-hero: https://public-files.gumroad.com/l8ozzgowf8wwz5dzjuckiscj0mqf
+hero: https://blog.addthiscdn.com/wp-content/uploads/2018/05/11124555/3-Things-Great-Websites-Have-in-Common1-672x372.png
 overlay: cyan
 published: true
 ---
