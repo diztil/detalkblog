@@ -20,7 +20,7 @@ blog:
   titles_only                : true # show post titles only on main blog page
 
 # Fonts
-  font                       : '"DotGothic16", sans-serif, -apple-system
+  font                       : '"DotGothic16", sans-serif, -apple-system'
   load_google_fonts          : 'DotGothic16:400, 400italic, 700, 700italic' # 'Rubik:400,400italic,700,700italic'  # ,'Zen Antique Soft:400',400italic,700,700italic'
 
 
