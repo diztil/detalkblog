@@ -7,7 +7,7 @@ tags:
   - articles
   - essays
 hero: https://miro.medium.com/max/1400/0*JZPNK1A78jBzwzQm
-overlay: yellow
+overlay: orange
 published: true
 ---
 
