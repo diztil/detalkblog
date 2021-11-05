@@ -7,7 +7,9 @@ published: true
 
 <div class="page" markdown="1">
 {% include page/title.html title=page.title subtitle=page_subtitle %}
-<center><font color="red"><strong>• LIVE</font> Radio Now Playing:</strong></center>
+
+
+<center>• LIVE Radio Now Playing:
 <marquee>ChilledCow : LoFi Compilation 2021</marquee>
 <center>
 <div data-video="5qap5aO4i9A"
