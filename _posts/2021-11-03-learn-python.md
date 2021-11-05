@@ -7,7 +7,7 @@ tags:
   - promo
   - learning
   - programming
-hero: https://blog.addthiscdn.com/wp-content/uploads/2018/05/11124555/3-Things-Great-Websites-Have-in-Common1-672x372.png
+hero: https://miro.medium.com/max/840/1*RJMxLdTHqVBSijKmOO5MAg.jpeg
 overlay: yellow
 published: true
 ---
