@@ -2,8 +2,8 @@
 layout: post
 title: 'Importance of Computer Science'
 tags:
-  - computers
   - articles
+  - computers
   - inspiration
   - career
 hero: 'https://miro.medium.com/max/875/1*M8_a-WDEeR90OFd7E0nnxg.png'
