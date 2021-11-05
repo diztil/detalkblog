@@ -13,7 +13,7 @@ published: true
 
 In this modern era of constantly developing technologies, digital devices are the utmost crucial resources that underpins all of the luxuries and factors of staying synchronized with the rest of the world. Computers are amongst the most ideal examples of such digital devices --- the 21st century miracle machines.
 
-Without computers, we may find it increasingly difficult to navigate through the limits set by the demanding needs of modern lifestyles. And of course, we require a minimum level of basic knowledge about information and communication technology (ICT) in order to calibrate ourselves with the other nations' advancing technology.
+Without computers, we may find it increasingly difficult to navigate through the limits set by the demanding needs of modern lifestyles. <!–-break-–> And of course, we require a minimum level of basic knowledge about information and communication technology (ICT) in order to calibrate ourselves with the other nations' advancing technology.
 
 What is Computer Science ?
 ==========================
