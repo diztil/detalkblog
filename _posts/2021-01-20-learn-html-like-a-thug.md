@@ -11,7 +11,7 @@ overlay: purple
 
 "Vadim blyat! You wanna learn web development? It's not for you. Go home and cry to your mama. Bwahahahaaa."
 
-Don't listen to that bully. Seek shelter here and begin where everyone else begins.
+Don't listen to that bully. Seek shelter here and begin where everyone else begins. <!–-break-–> 
 
 ![html5 icon](https://fullsync.co.uk/wp-content/uploads/2020/06/HTML5.png)
 
