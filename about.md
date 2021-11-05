@@ -26,6 +26,6 @@ Just some minimalistic blog site that tries to archive, summarize and host any k
 Me. Dewan M.I. Mukto. Just me, myself and my knowledge.
 
 ## Like the theme?
-Thank [Marcin C.](https://github.com/melangue/dactl) for creating this theme. Thank [Jekyll](https://jekyllrb.com/) and [Github Pages](https://pages.github.com/) for the implementation and hosting. Thank [MuxSites](https://www.muxsites.com) and [MuxWorks](https://www.muxworks.com) (the company behind MuxSites) for the domain and overall support.
+Thank [**Marcin C.**](https://github.com/melangue/dactl) for creating this theme. Thank [**Jekyll**](https://jekyllrb.com/) and [**Github Pages**](https://pages.github.com/) for the implementation and hosting. Thank [**MuxSites**](https://www.muxsites.com) and [**MuxWorks**](https://www.muxworks.com) (the company behind MuxSites) for the domain and overall support.
 
 </div>
