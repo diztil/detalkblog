@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Using MuxSites for your Website'
+description: Have you considered getting your own website? Hire a web developer for $0 and onwards!
 tags:
   - casual
   - promo
@@ -94,4 +95,4 @@ A quick summary of available features for each pricing plan has been provided be
 ## Try the Free Plan
 You can feel free to give it a try. After all, it costs $0 so why lose an opportunity?
 
-[Get your 🆓️ site](https://free.muxsites.com)
+[Get your FREE site](https://free.muxsites.com)
