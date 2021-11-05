@@ -31,7 +31,7 @@ author:
   mail                      : 
   twitter                   : 
   github                    : 
-  youtube                   : 
+  youtube                   : channel/UCqkQwGyM_xqsFqwNkDCUJJA
   stackoverflow             : 
   disqus                    : 
   google_analytics          : 'G-9JSZH72250'
@@ -113,6 +113,6 @@ compress_html:
   endings                 : all
   comments                : ["<!-- ", " -->"]
   blanklines              : true
-  profile                 : false
+  profile                 : true
   ignore:
   envs                    : [local]
