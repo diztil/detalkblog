@@ -28,7 +28,6 @@ The fields of computer science, one of the main scopes of this book, are partiti
 
 We shall have a glimpse at some vital aspects of computer science in the next section.
 
-![](https://miro.medium.com/max/60/0*1f3argGOj26nB5yy?q=20)
 
 ![](https://miro.medium.com/max/875/0*1f3argGOj26nB5yy)
 
@@ -57,8 +56,6 @@ Nonetheless, the Association of Computing Machinery (ACM), which is an internati
 Plus, computer science is a portal for self-expression of talents, abilities, and highlighting an individual's own merit qualities and reaching out towards a globalized society. Since the field of computer science is one of the fastest growing and highest paying career paths in the world, why should we hesitate from joining this stream of modernization?
 
 Probably one of the most interesting and baffling discoveries of computers is that there are only 2 objects that a digital device has to deal with, to represent anything --- the binary code of 1s and 0s. This is one of the axioms of computers, thus referring to the core of computer science. Similarly, such simple ideas can magnify to great steps for mankind in these computing fields.
-
-![](https://miro.medium.com/max/60/0*QJ1f_hZE0T-Gfbe3?q=20)
 
 ![](https://miro.medium.com/max/875/0*QJ1f_hZE0T-Gfbe3)
 
