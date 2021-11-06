@@ -8,7 +8,7 @@ tags:
   - casual
 hero: https://www.ctvnews.ca/polopoly_fs/1.5385054.1618284902!/httpImage/image.jpg_gen/derivatives/landscape_960/image.jpg
 overlay: cyan
-published: true
+published: false
 ---
 So finally, it was time to hit the road (the sky, I mean) and to proceed to Canada for my higher education. I had composed a little video about some scenarios from my aerial voyage.
 
