@@ -46,7 +46,6 @@ Currently, our modern computers have operating systems running up to 64-bits. Ex
   <div class="omni-calculator-footer">
     <a href="https://www.omnicalculator.com/math/ones-complement" target="_blank"><img alt="Omni" class="omni-calculator-logo" src="https://cdn.omnicalculator.com/embed/omni-calculator-logo-long.svg" /></a>
   </div>
-</div>
 <script async src="https://cdn.omnicalculator.com/sdk.js"></script>
 <div class="omni-calculator" data-calculator="math/twos-complement" data-width="300" data-config='{}' data-currency="CAD" data-show-row-controls="false" data-version="3" data-t="1636175742031">
   <div class="omni-calculator-header">Two&#39;s Complement Calculator</div>
