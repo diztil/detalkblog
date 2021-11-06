@@ -1,7 +1,7 @@
-
 ---
 layout: post
-title: 'Cooper Black: Classic'
+title: "Cooper Black: Classic"
+subtitle: 'where the legend began'
 tags:
   - stories
   - wattpad
