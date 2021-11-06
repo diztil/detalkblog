@@ -41,7 +41,13 @@ Currently, our modern computers have operating systems running up to 64-bits. Ex
 
 <br /><br />
 
-<iframe class="omni-calculator-frame" data-calculator-id="1" src="https://www.omnicalculator.com/embed/math/ones-complement#id=1&amp;hasLink=true&amp;version=3" style="visibility: visible; opacity: 1; display: block; border: none; width: 100%; margin: 0px; padding: 0px; height: 445px;"></iframe>
+<div class="omni-calculator" data-calculator="math/ones-complement" data-width="300" data-config='{}' data-currency="CAD" data-show-row-controls="false" data-version="3" data-t="1636175647062">
+  <div class="omni-calculator-header">One&#39;s Complement Calculator</div>
+  <div class="omni-calculator-footer">
+    <a href="https://www.omnicalculator.com/math/ones-complement" target="_blank"><img alt="Omni" class="omni-calculator-logo" src="https://cdn.omnicalculator.com/embed/omni-calculator-logo-long.svg" /></a>
+  </div>
+</div>
+<script async src="https://cdn.omnicalculator.com/sdk.js"></script>
 <iframe class="omni-calculator-frame" data-calculator-id="2" src="https://www.omnicalculator.com/embed/math/twos-complement#id=2&amp;hasLink=true&amp;version=3" style="visibility: visible; opacity: 1; display: block; border: none; width: 100%; margin: 0px; padding: 0px; height: 445px;"></iframe>
 <br /><br />
 
