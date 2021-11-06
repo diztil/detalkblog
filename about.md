@@ -23,7 +23,7 @@ published: true
 Just some minimalistic blog site that tries to archive, summarize and host any kind of text the author has chosen to publish.
 
 ## Who's behind DeTalk?
-Me. Dewan M.I. Mukto. Just me, myself and my knowledge.
+Dewan M.I. Mukto... Just me, myself and my knowledge. And so are the posts and content, unless otherwise noted.
 
 ## Like the theme?
 Thank [**Marcin C.**](https://github.com/melangue/dactl) for creating this theme. Thank [**Jekyll**](https://jekyllrb.com/) and [**Github Pages**](https://pages.github.com/) for the implementation and hosting. Thank [**MuxSites**](https://www.muxsites.com) and [**MuxWorks**](https://www.muxworks.com) (the company behind MuxSites) for the domain and overall support.
