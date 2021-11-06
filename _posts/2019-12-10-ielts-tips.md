@@ -5,11 +5,16 @@ tags:
   - learning
   - articles
   - career
-hero: https://www.wirerealm.com/wp-content/uploads/2014/07/apple-logic-pro-digital-audio-workstation.png
-overlay: purple
+hero: https://doomielts.files.wordpress.com/2020/12/iels-logo.jpg
+overlay: red
 published: true
 ---
 
+<head>
+  <meta name="description" content="This article is aimed to provide you with all the necessary details, instructions and advice for you to ace your IELTS exam! Emphasis has been placed on the Academic module in this article.">
+  <meta name="keywords" content="ielts, ielts 8, ielts 9, ielts tips, ielts in 1 month, ielts in 3 months, ielts online, learn ielts, ielts advice, IELTS help, IELTS website, IELTS blog, ielts tutor">
+  <meta name="author" content="IDP, Dewan Mukto">
+</head>
 
 This article is aimed to provide you with all the necessary details, instructions and advice for you to ace your IELTS exam!! Emphasis has been placed on the Academic module in this article.
 
