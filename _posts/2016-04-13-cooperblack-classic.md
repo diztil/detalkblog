@@ -57,5 +57,5 @@ The cowboy beside the driver grinned.
 <br />
 <br />
 
-<a href="_cooperblack/classic/pg02">Next: Chapter 01</a>
+<a href="cooperblack/classic/pg02">Next: Chapter 01</a>
 
