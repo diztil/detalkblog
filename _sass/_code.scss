@@ -6,7 +6,7 @@
 code,
 pre {
   font-family: $serif;
-  }
+}
 
 // small code thingies
 code {
@@ -47,7 +47,7 @@ figure, .figure {
     margin-top: 0.5rem;
     padding: 0 1rem;
   }
-
+}
 
 //http://www.minh.io/blog/2015/06/28/jekyll-line-numbers/
 //https://drewsilcock.co.uk/proper-linenumbers
@@ -126,16 +126,7 @@ figure, .figure {
 	.vi { color: #f8f8f2 } /* Name.Variable.Instance */
 	.il { color: #ae81ff } /* Literal.Number.Integer.Long */
 }
-
-  pre {
-    line-height: 1.6;
-    padding: .5rem 0 .5rem .5rem;
-    margin-bottom: 0;
-    overflow-x: auto;
-  }
-
-/*
-.lineno {
+  .lineno {
     display: inline-block; // Ensures the null space also isn't selectable
     padding-right: .25rem;
     color: var(--metadata-color);
@@ -143,8 +134,7 @@ figure, .figure {
     -webkit-user-select: none;
        -moz-user-select: none;
             user-select: none;
-  } 
-*/
+  }
 
   table {
     // resets down below
