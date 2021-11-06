@@ -1,155 +1,133 @@
-// Code
-//-------------------------------
-// Inline and block-level code snippets. Includes tweaks to syntax highlighted
-// snippets from Rouge and Gist embeds.
+@charset "utf-8";
 
-code,
-pre {
-  font-family: $serif;
+// Solarized skin
+// ==============
+// Created by Sander Voerman <mailto:sander@savoerman.nl> using the Solarized
+// color scheme by Ethan Schoonover <https://ethanschoonover.com/solarized>.
+
+// This style sheet implements two options for the minima.skin setting:
+// "solarized" for light mode and "solarized-dark" for dark mode.
+$sol-is-dark: true !default;
+
+
+// Color scheme
+// ------------
+// The inline comments show the canonical L*a*b values for each color.
+
+$sol-base03:   #002b36;  // 15 -12 -12
+$sol-base02:   #073642;  // 20 -12 -12
+$sol-base01:   #586e75;  // 45 -07 -07
+$sol-base00:   #657b83;  // 50 -07 -07
+$sol-base0:    #839496;  // 60 -06 -03
+$sol-base1:    #93a1a1;  // 65 -05 -02
+$sol-base2:    #eee8d5;  // 92 -00  10
+$sol-base3:    #fdf6e3;  // 97  00  10
+$sol-yellow:   #b58900;  // 60  10  65
+$sol-orange:   #cb4b16;  // 50  50  55
+$sol-red:      #dc322f;  // 50  65  45
+$sol-magenta:  #d33682;  // 50  65 -05
+$sol-violet:   #6c71c4;  // 50  15 -45
+$sol-blue:     #268bd2;  // 55 -10 -45
+$sol-cyan:     #2aa198;  // 60 -35 -05
+$sol-green:    #859900;  // 60 -20  65
+
+$sol-mono3:    $sol-base3;
+$sol-mono2:    $sol-base2;
+$sol-mono1:    $sol-base1;
+$sol-mono00:   $sol-base00;
+$sol-mono01:   $sol-base01;
+
+@if $sol-is-dark {
+  $sol-mono3:  $sol-base03;
+  $sol-mono2:  $sol-base02;
+  $sol-mono1:  $sol-base01;
+  $sol-mono00: $sol-base0;
+  $sol-mono01: $sol-base1;
 }
 
-// small code thingies
-code {
-  padding: .25em .5em;
-  font-size: .85em;
-  // Could be mistaken for a link if the user choses a similar link-color, so better no colored inline code.
-  // color: $code-color;
-  background-color: var(--code-bg-color);
-  // No border radius to prevent repaint on code scroll
-  // border-radius: 3px;
+
+// Minima color variables
+// ----------------------
+
+$brand-color:           $sol-mono1 !default;
+$brand-color-light:     mix($sol-mono1, $sol-mono3) !default;
+$brand-color-dark:      $sol-mono00 !default;
+
+$text-color:            $sol-mono01 !default;
+$background-color:      $sol-mono3 !default;
+$code-background-color: $sol-mono2 !default;
+
+$link-base-color:       $sol-blue !default;
+$link-visited-color:    mix($sol-blue, $sol-mono00) !default;
+
+$table-text-color:      $sol-mono00 !default;
+$table-zebra-color:     mix($sol-mono2, $sol-mono3) !default;
+$table-header-bg-color: $sol-mono2 !default;
+$table-header-border:   $sol-mono1 !default;
+$table-border-color:    $sol-mono1 !default;
+
+
+// Syntax highlighting styles
+// --------------------------
+
+.code {
+  .c     { color: $sol-mono1; font-style: italic } // Comment
+  .err   { color: $sol-red } // Error
+  .k     { color: $sol-mono01; font-weight: bold } // Keyword
+  .o     { color: $sol-mono01; font-weight: bold } // Operator
+  .cm    { color: $sol-mono1; font-style: italic } // Comment.Multiline
+  .cp    { color: $sol-mono1; font-weight: bold } // Comment.Preproc
+  .c1    { color: $sol-mono1; font-style: italic } // Comment.Single
+  .cs    { color: $sol-mono1; font-weight: bold; font-style: italic } // Comment.Special
+  .gd    { color: $sol-red } // Generic.Deleted
+  .gd .x { color: $sol-red } // Generic.Deleted.Specific
+  .ge    { color: $sol-mono00; font-style: italic } // Generic.Emph
+  .gr    { color: $sol-red } // Generic.Error
+  .gh    { color: $sol-mono1 } // Generic.Heading
+  .gi    { color: $sol-green } // Generic.Inserted
+  .gi .x { color: $sol-green } // Generic.Inserted.Specific
+  .go    { color: $sol-mono00 } // Generic.Output
+  .gp    { color: $sol-mono00 } // Generic.Prompt
+  .gs    { color: $sol-mono01; font-weight: bold } // Generic.Strong
+  .gu    { color: $sol-mono1 } // Generic.Subheading
+  .gt    { color: $sol-red } // Generic.Traceback
+  .kc    { color: $sol-mono01; font-weight: bold } // Keyword.Constant
+  .kd    { color: $sol-mono01; font-weight: bold } // Keyword.Declaration
+  .kp    { color: $sol-mono01; font-weight: bold } // Keyword.Pseudo
+  .kr    { color: $sol-mono01; font-weight: bold } // Keyword.Reserved
+  .kt    { color: $sol-violet; font-weight: bold } // Keyword.Type
+  .m     { color: $sol-cyan } // Literal.Number
+  .s     { color: $sol-magenta } // Literal.String
+  .na    { color: $sol-cyan } // Name.Attribute
+  .nb    { color: $sol-blue } // Name.Builtin
+  .nc    { color: $sol-violet; font-weight: bold } // Name.Class
+  .no    { color: $sol-cyan } // Name.Constant
+  .ni    { color: $sol-violet } // Name.Entity
+  .ne    { color: $sol-violet; font-weight: bold } // Name.Exception
+  .nf    { color: $sol-blue; font-weight: bold } // Name.Function
+  .nn    { color: $sol-mono00 } // Name.Namespace
+  .nt    { color: $sol-blue } // Name.Tag
+  .nv    { color: $sol-cyan } // Name.Variable
+  .ow    { color: $sol-mono01; font-weight: bold } // Operator.Word
+  .w     { color: $sol-mono1 } // Text.Whitespace
+  .mf    { color: $sol-cyan } // Literal.Number.Float
+  .mh    { color: $sol-cyan } // Literal.Number.Hex
+  .mi    { color: $sol-cyan } // Literal.Number.Integer
+  .mo    { color: $sol-cyan } // Literal.Number.Oct
+  .sb    { color: $sol-magenta } // Literal.String.Backtick
+  .sc    { color: $sol-magenta } // Literal.String.Char
+  .sd    { color: $sol-magenta } // Literal.String.Doc
+  .s2    { color: $sol-magenta } // Literal.String.Double
+  .se    { color: $sol-magenta } // Literal.String.Escape
+  .sh    { color: $sol-magenta } // Literal.String.Heredoc
+  .si    { color: $sol-magenta } // Literal.String.Interpol
+  .sx    { color: $sol-magenta } // Literal.String.Other
+  .sr    { color: $sol-green } // Literal.String.Regex
+  .s1    { color: $sol-magenta } // Literal.String.Single
+  .ss    { color: $sol-magenta } // Literal.String.Symbol
+  .bp    { color: $sol-mono1 } // Name.Builtin.Pseudo
+  .vc    { color: $sol-cyan } // Name.Variable.Class
+  .vg    { color: $sol-cyan } // Name.Variable.Global
+  .vi    { color: $sol-cyan } // Name.Variable.Instance
+  .il    { color: $sol-cyan } // Literal.Number.Integer.Long
 }
-
-code.highlighter-rouge {
-  box-shadow: 0 1px 1px var(--shadow-color);
-}
-
-pre code {
-  padding: 0;
-  font-size: .75em;
-  color: inherit;
-  background-color: transparent;
-}
-
-figure, .figure {
-  margin-left: -1rem;
-  margin-right: -1rem;
-
-  > *:first-child {
-    padding: 1rem;
-    background: var(--code-bg-color);
-  }
-
-  > figcaption, > .figcaption {
-    font-size: smaller;
-    color: #9a9a9a;
-    text-align: center;
-    font-style: italic;
-    margin-top: 0.5rem;
-    padding: 0 1rem;
-  }
-}
-
-//http://www.minh.io/blog/2015/06/28/jekyll-line-numbers/
-//https://drewsilcock.co.uk/proper-linenumbers
-//https://sacha.me/articles/jekyll-rouge/#using-rouge-in-jekyll-3-on-github-pages
-// Rouge
-.highlight {
-  margin-bottom: 1.5rem;
-  font-size: .75em;
-  // /* Prevent code linebreaks and allow side-scrolling (much better readability on mobile) */
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-  // /* Make code same width as regular text, and scroll the full page width on mobile */
-  @include figure2();
-
-  backface-visibility: hidden;
-  box-shadow: 0 1px 2px var(--shadow-color);
-  position: relative;
-  
-  &:before {
-        position: absolute;
-        top: 0;
-        right: 0;
-        padding: 0.5em;
-        background-color: var(--code-border);
-        content: "\e86f";
-        font-family: "icomoon" !important;
-        line-height: 1;
-        text-transform: none;
-        speak: none;
-        box-shadow: 0 1px 2px var(--shadow-color);
-      }
-
-  pre {
-    line-height: 1.6;
-    padding: .5rem 0 .5rem .5rem;
-    margin-bottom: 0;
-    overflow-x: auto;
-  }
-
-  .lineno {
-    display: inline-block; // Ensures the null space also isn't selectable
-    padding-right: .25rem;
-    color: var(--metadata-color);
-    // Make sure numbers aren't selectable
-    -webkit-user-select: none;
-       -moz-user-select: none;
-            user-select: none;
-  }
-
-  table {
-    // resets down below
-    width: 90%;
-    background: transparent;
-    box-shadow: none;
-    margin-bottom: 0;
-    font-size: inherit;
-
-    td, th {
-    padding: 0.25rem .5rem;
-    }
-
-    td:not(:first-child) {
-    border-left: 0;
-    }
-
-    td.gutter {
-      background: var(--code-border);
-      box-shadow: 0 1px 2px var(--shadow-color);
-      width: 6%;
-    }
-
-    td.code {
-      position:relative;
-      width: 90%;
-    }
-  }
-}
-
-@media (max-width: 48rem) {
-  td.code:before {
-    display: none;
-  }
-}
-
-// Gist via GitHub Pages
-// .gist .gist-file {
-//   font-family: Menlo, Monaco, "Courier New", monospace !important;
-// }
-// .gist .markdown-body {
-//   padding: 15px;
-// }
-// .gist pre {
-//   padding: 0;
-//   background-color: transparent;
-// }
-// .gist .gist-file .gist-data {
-//   font-size: .8rem !important;
-//   line-height: 1.4;
-// }
-// .gist code {
-//   padding: 0;
-//   color: inherit;
-//   background-color: transparent;
-//   border-radius: 0;
-// }
