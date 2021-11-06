@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Binary Bits - Memory Calculation'
+description: Valuable chunks of information about computer memory and their base-N calculations.
 tags:
   - computers
   - articles
