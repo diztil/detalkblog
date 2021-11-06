@@ -39,25 +39,6 @@ Thus, it is evident that for n-bits, the smallest possible value will be -(2^n) 
 
 Currently, our modern computers have operating systems running up to 64-bits. Exceeding 70-bits is going to cause a problem known as a 'floating point precision error' or 'floating point bug'. You can search that term up for better and detailed explanations, if you are curious.
 
-<br />
-
-<div class="omni-calculator" data-calculator="math/ones-complement" data-width="300" data-config='{}' data-currency="CAD" data-show-row-controls="false" data-version="3" data-t="1636175647062">
-  <div class="omni-calculator-header">One&#39;s Complement Calculator</div>
-  <div class="omni-calculator-footer">
-    <a href="https://www.omnicalculator.com/math/ones-complement" target="_blank"><img alt="Omni" class="omni-calculator-logo" src="https://cdn.omnicalculator.com/embed/omni-calculator-logo-long.svg" /></a>
-</div></div>&nbsp;
-<script async src="https://cdn.omnicalculator.com/sdk.js"></script>
-<div class="omni-calculator" data-calculator="math/twos-complement" data-width="300" data-config='{}' data-currency="CAD" data-show-row-controls="false" data-version="3" data-t="1636175742031">
-  <div class="omni-calculator-header">Two&#39;s Complement Calculator</div>
-  <div class="omni-calculator-footer">
-    <a href="https://www.omnicalculator.com/math/twos-complement" target="_blank"><img alt="Omni" class="omni-calculator-logo" src="https://cdn.omnicalculator.com/embed/omni-calculator-logo-long.svg" /></a>
-  </div>
-</div>
-
-<script async src="https://cdn.omnicalculator.com/sdk.js"></script>
-
-<br />
-
 
 Byte addressable or word addressable ?
 ======================================
