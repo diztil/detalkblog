@@ -27,7 +27,7 @@
 {% if page.title %} {% assign title = page.title ~ ' - ' ~ page.subtitle %} {% else %} {% assign title = site.blog.title %} {% endif %}
 {% if page.description %} {% assign description = page.description %} {% else %} {% assign description = site.blog.description %} {% endif %}
 {% if page.keywords %} {% assign keywords = page.keywords %} {% else %} {% assign keywords = site.keywords %} {% endif %}
-{% if page.cover %} {% assign cover = page.cover %} {% else %} {% assign cover = site.cover %} {% endif %}
+{% if page.cover %} {% assign cover = page.cover %} {% else %} {% assign cover = site.cover %} {% else %} {% assign cover = site.blog.hero %} {% else %} {% assign cover = "https://detalk.muxsites.com/images/detalk-sitecard.png" %} {% endif %}
 
 <!-- Twitter Cards -->
 <meta name="twitter:card" content="summary" />
@@ -43,10 +43,10 @@
 <meta property="og:locale" content="{{ site.lang }}">
 <meta property="og:type" content="article">
 <meta property="og:title" content="{{ title }}">
-<meta property="og:description" content="{{ description }}" || "Just some minimalistic blog site that tries to archive, summarize and host any kind of text the author has chosen to publish.">
+<meta property="og:description" content="{{ description }}">
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 <meta property="og:site_name" content="{{ site.blog.title }}">
-<meta property="og:image" content="https://detalk.muxsites.com/images/detalk-sitecard.png" || "{{ site.blog.hero }}">
+<meta property="og:image" content="{{ cover }}">
 
 <!-- Styles -->
 <link rel="stylesheet" href="{{ "assets/vendor/normalize-css/normalize.css" | relative_url }}">
