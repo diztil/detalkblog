@@ -34,7 +34,7 @@ author:
   github                    : 
   youtube                   : channel/UCqkQwGyM_xqsFqwNkDCUJJA
   stackoverflow             : 
-  disqus                    : detalk
+  disqus                    : # disabled, since Disqus was displaying inappropriate ads. Change it to "detalk" when safe
   google_analytics          : 'G-9JSZH72250'
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
