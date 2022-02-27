@@ -8,7 +8,7 @@ tags:
   - anecdotes
 hero: https://media.istockphoto.com/videos/the-book-fall-rotate-on-a-black-background-and-the-pages-evolve-in-video-id898448518?s=640x640
 overlay: blue
-published: true
+published: false
 ---
 
 So let's get this straight. Studying sucks. You know why? Because of the way the world's education system has been designed.
